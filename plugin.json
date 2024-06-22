@@ -1,0 +1,29 @@
+{
+    "id": "render_mermaid_diagram",
+    "uuid": "0bb7f6b3-d454-4ddd-a140-06d5dc2cd24d",
+    "title": "Mermaid Diagram",
+    "iconURL": "",
+    "openaiSpec": {
+        "name": "render_mermaid_diagram",
+        "parameters": {
+            "type": "object",
+            "required": [
+                "title",
+                "source"
+            ],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "description": "The title of the diagram."
+                }
+                "source": {
+                    "type": "string",
+                    "description": "The Mermaid diagram source in raw text to render."
+                }
+            }
+        },
+        "description": "Generate a diagram using Mermaid.js. This can be used to render various types of diagrams, including Flowchart, Sequence Diagram, Class Diagram, State Diagram, Entity Relationship Diagram, User Journey, Gantt, Pie Chart, Quadrant Chart, Requirement Diagram, Gitgraph Diagram, C4 Diagram, Mindmaps, Timeline, Zenuml, Sankey, XYChart, Block Diagram, etc."
+    },
+    "implementationType": "javascript",
+    "outputType": "render_html"
+}
