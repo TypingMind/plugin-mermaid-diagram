@@ -22,7 +22,7 @@
                 }
             }
         },
-        "description": "Generate a diagram using Mermaid.js. This can be used to render various types of diagrams, including Flowchart, Sequence Diagram, Class Diagram, State Diagram, Entity Relationship Diagram, User Journey, Gantt, Pie Chart, Quadrant Chart, Requirement Diagram, Gitgraph Diagram, C4 Diagram, Mindmaps, Timeline, Zenuml, Sankey, XYChart, Block Diagram, etc."
+        "description": "Generate a diagram using Mermaid.js (version 10.x). This can be used to render various types of diagrams, including Flowchart, Sequence Diagram, Class Diagram, State Diagram, Entity Relationship Diagram, User Journey, Gantt, Pie Chart, Quadrant Chart, Requirement Diagram, Gitgraph Diagram, C4 Diagram, Mindmaps, Timeline, Zenuml, Sankey, XYChart, Block Diagram, etc."
     },
     "implementationType": "javascript",
     "outputType": "render_html"

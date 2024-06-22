@@ -15,7 +15,7 @@ function render_mermaid_diagram(params) {
 </head>
 <body>
     <div class="mermaid">
-        ${source}
+${source}
     </div>
 </body>
 </html>
