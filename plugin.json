@@ -2,7 +2,7 @@
     "id": "render_mermaid_diagram",
     "uuid": "0bb7f6b3-d454-4ddd-a140-06d5dc2cd24d",
     "title": "Mermaid Diagram",
-    "iconURL": "",
+    "iconURL": "https://raw.githubusercontent.com/TypingMind/plugin-mermaid-diagram/main/mermaid.svg",
     "openaiSpec": {
         "name": "render_mermaid_diagram",
         "parameters": {
