@@ -15,7 +15,7 @@
                 "title": {
                     "type": "string",
                     "description": "The title of the diagram."
-                }
+                },
                 "source": {
                     "type": "string",
                     "description": "The Mermaid diagram source in raw text to render."
